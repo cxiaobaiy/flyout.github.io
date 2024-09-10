@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as t,a2 as i}from"./chunks/framework.B-SOf8M1.js";const E=JSON.parse('{"title":"简介","description":"","frontmatter":{},"headers":[],"relativePath":"server/flow.md","filePath":"server/flow.md"}'),e={name:"server/flow.md"},n=i("",10),l=[n];function r(h,d,o,p,k,c){return t(),a("div",null,l)}const _=s(e,[["render",r]]);export{E as __pageData,_ as default};

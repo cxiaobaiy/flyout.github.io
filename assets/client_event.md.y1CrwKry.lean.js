@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a2 as e}from"./chunks/framework.B-SOf8M1.js";const u=JSON.parse('{"title":"事件监听","description":"","frontmatter":{},"headers":[],"relativePath":"client/event.md","filePath":"client/event.md"}'),p={name:"client/event.md"},l=e("",53),o=[l];function i(c,t,d,r,g,h){return a(),n("div",null,o)}const b=s(p,[["render",i]]);export{u as __pageData,b as default};
